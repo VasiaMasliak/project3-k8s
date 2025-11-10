@@ -112,13 +112,6 @@ Demonstrate **containerization** and **orchestration** fundamentals by running a
 * Local orchestration and debugging with Minikube
 * Container lifecycle management
 
-## 📸 Expected output
-> Open in your browser:
-
-**http://&lt;minikube-ip&gt;:30080**
-> You'll see:
-
-**Hello CICD**
 
 
 
